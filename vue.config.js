@@ -1,3 +1,3 @@
-exports = {
-  publicPath: "/router/",
+mexports = {
+  publicPath: "/",
 };
